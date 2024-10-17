@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YxPd1HAzs3aZctWV25mOg0MksJCcSZ72Nny/eNYTqyQ=",
+  "Source": "healthcareappbackend",
+  "BasePath": "_content/healthcareappbackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

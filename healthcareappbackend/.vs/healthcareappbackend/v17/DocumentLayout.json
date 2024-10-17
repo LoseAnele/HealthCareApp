@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\controllers\\visitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\controllers\\visitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\controllers\\administratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\controllers\\administratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\getassistantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\getassistantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\migrations\\20241016125533_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\migrations\\20241016125533_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241016113559_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\healthcareappbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\healthcareappbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213740_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213538_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015211412_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015165554_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|c:\\users\\sadico\\documents\\nmu projects - practicals and assignments\\medicalpracapp\\healthcareappbackend\\healthcareappbackend\\migrations\\20241017104750_addusernametopatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113F561-FE07-468B-A1DC-7FDABA431106}|healthcareappbackend\\healthcareappbackend.csproj|solutionrelative:healthcareappbackend\\migrations\\20241017104750_addusernametopatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241017104750_AddUsernameToPatient.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241017104750_AddUsernameToPatient.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Migrations\\20241017104750_AddUsernameToPatient.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241017104750_AddUsernameToPatient.cs",
+              "RelativeToolTip": "healthcareappbackend\\Migrations\\20241017104750_AddUsernameToPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:48:24.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdministratorController.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\AdministratorController.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Controllers\\AdministratorController.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\AdministratorController.cs",
+              "RelativeToolTip": "healthcareappbackend\\Controllers\\AdministratorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:09:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "healthcareappbackend\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:39:26.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "healthcareappbackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:34:05.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssistantController.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\AssistantController.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Controllers\\AssistantController.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\AssistantController.cs",
+              "RelativeToolTip": "healthcareappbackend\\Controllers\\AssistantController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:10:32.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "healthcareappbackend\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:35:56.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Assistant.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\Assistant.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Assistant.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\Assistant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:07:21.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Patient.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:41:30.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "healthcareappbackend\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:11:09.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "healthcareappbackend\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:45:44.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Program.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Program.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Program.cs",
+              "RelativeToolTip": "healthcareappbackend\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:25:41.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAssistantDto.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\GetAssistantDto.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\GetAssistantDto.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\GetAssistantDto.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\GetAssistantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:05:57.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VisitController.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\VisitController.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Controllers\\VisitController.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Controllers\\VisitController.cs",
+              "RelativeToolTip": "healthcareappbackend\\Controllers\\VisitController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:45:25.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Data\\DataContext.cs",
+              "RelativeToolTip": "healthcareappbackend\\Data\\DataContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:11:47.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Appointment.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:25:51.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\UserLoginDto.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:35:11.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:35:27.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Visit.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\Visit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:21:20.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Doctor.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:07:00.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241016125533_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241016125533_InitialCreate.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Migrations\\20241016125533_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241016125533_InitialCreate.cs",
+              "RelativeToolTip": "healthcareappbackend\\Migrations\\20241016125533_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:55:33.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\appsettings.json",
+              "RelativeDocumentMoniker": "healthcareappbackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\appsettings.json",
+              "RelativeToolTip": "healthcareappbackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T15:26:42.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\User.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:52:50.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Administrator.cs",
+              "RelativeDocumentMoniker": "healthcareappbackend\\Models\\Administrator.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\Models\\Administrator.cs",
+              "RelativeToolTip": "healthcareappbackend\\Models\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:09:26.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241016113559_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241016113559_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241016113559_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241016113559_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241016113559_InitialCreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:35:59.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "healthcareappbackend.csproj",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\healthcareappbackend.csproj",
+              "RelativeDocumentMoniker": "healthcareappbackend\\healthcareappbackend.csproj",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\MedicalPracApp\\healthcareappbackend\\healthcareappbackend\\healthcareappbackend.csproj",
+              "RelativeToolTip": "healthcareappbackend\\healthcareappbackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T23:32:30.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241015213740_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213740_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213740_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213740_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213740_InitialCreate.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:37:40.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241015213538_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213538_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213538_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213538_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015213538_InitialCreate.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:35:38.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241015211412_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015211412_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015211412_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015211412_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015211412_InitialCreate.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:14:12.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241015165554_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015165554_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015165554_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\SADICO\\Documents\\NMU Projects - Practicals and Assignments\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015165554_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\healthcareappbackend\\healthcareappbackend\\Migrations\\20241015165554_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:55:55.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
